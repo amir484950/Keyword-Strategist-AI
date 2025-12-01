@@ -1,0 +1,5 @@
+{
+  "name": "Keyword Strategist AI",
+  "description": "An AI-powered SEO tool that implements the 'Search Intent' and 'Filtering' workflow. It generates keywords, analyzes their commercial value, intent, and competition, and visualizes the strategy.",
+  "requestFramePermissions": []
+}
